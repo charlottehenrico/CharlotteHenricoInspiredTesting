@@ -18,5 +18,6 @@ As a Customer When I use the https://www.takealot.com/ platform I Want to find a
 * Open the project on an IDE of choice
 * Import maven dependencies on the POM file
 * Download Chrome Driver for your chrome version and add it to src\main\resources\drivers folder
-* Open the AddToCart.feature file (Location src\test\resources\features) 
-* Run the test from the AddToCart.feature file
+* Open the SearchForItemFromSearchBarClass and Run
+Open the AddToCartClass and Run
+
